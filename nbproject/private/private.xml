@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/css/search.css</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/SearchServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/UploadServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/css/upload.css</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/model/Track.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/header.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/banner.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/css/main.css</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/model/AccInfo.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/dal/AccountDAO.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/filter/LoadStreamFilter.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/HomeServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/home.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/AdminServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/css/home.css</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/profile.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/FollowServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/dal/StatsDAO.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/logout.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/stats.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/model/Account.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/search.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/filter/AccessFilter.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/css/profile.css</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/player.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/DeleteServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/ProfileServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/discover.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/upload.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/css/discover.css</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/admin.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/StatsServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/DiscoverServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/css/login.css</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/model/Genre.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/model/Artist.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/login.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/css/index.css</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/dal/MusicDAO.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/controller/EditServlet.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/filter/LogedFilter.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/src/java/filter/EditTrackFilter.java</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/edit.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/register.jsp</file>
+            <file>file:/C:/Users/lvhn1/Desktop/ProjectJavaWeb/MuuzicProject/web/css/stats.css</file>
+        </group>
+    </open-files>
+</project-private>
